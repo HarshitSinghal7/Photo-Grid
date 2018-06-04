@@ -1,0 +1,17 @@
+h1{
+    font-family: Raleway;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.image1{
+    
+    width: 450px;
+    height: 450px;
+/*    padding: inherit;*/
+   margin: 20px;
+}
+
+hr{
+    width:100px;
+}
